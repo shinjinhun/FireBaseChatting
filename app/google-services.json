@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556433175534",
+    "firebase_url": "https://fir-chatting-3b337.firebaseio.com",
+    "project_id": "fir-chatting-3b337",
+    "storage_bucket": "fir-chatting-3b337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556433175534:android:a1d57b47cb1ef821",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556433175534-2cj1hatn8eehie99rtp2ccrgfueqkrjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasechatting",
+            "certificate_hash": "cfabc7526cc5e7c426a0fc47ad849a832e4cebd3"
+          }
+        },
+        {
+          "client_id": "556433175534-viblaun1imgqedpearkanq997g6tn689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2iD58CkrkwdpjxG2hg7rC6eNblYExtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556433175534-viblaun1imgqedpearkanq997g6tn689.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
